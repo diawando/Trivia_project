@@ -1,6 +1,7 @@
 # Full Stack API Final Project
 ## Full Stack Trivia
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 This project is the final project of my udacity session on API Development and Documentation. i've built an API  to finish the trivia app so it can hold :
 1. Display questions - both all questions and by category. Questions show the question, category and difficulty rating by default and can show/hide the answer.
 2. Delete questions.

@@ -249,7 +249,7 @@ The API will three error types when requests fail, as:
   "total_questions": 4
 }
 ```
-##Authors
+## Authors
 Diawando DIAWARA
 
 ## Acknowledgements
